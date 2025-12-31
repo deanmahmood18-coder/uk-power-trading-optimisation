@@ -1,5 +1,9 @@
 # UK Power Trading & Battery Optimisation
 
+**Recommended reading order:**
+1. `03_client_legacy_strategy.ipynb` – rule-based strategy currently used by the client  
+2. `04_optimised_strategies.ipynb` – benchmark and optimised strategies with quantified uplift
+
 ## Overview
 This project evaluates trading strategies for a battery energy storage asset operating in the UK power market. 
 It compares a client-style legacy strategy with improved alternatives to demonstrate the value of optimisation.
